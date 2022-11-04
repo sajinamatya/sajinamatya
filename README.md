@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently exploring new stuff in the field of infomation technology
 
 <!--
 **sajinamatya/sajinamatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
