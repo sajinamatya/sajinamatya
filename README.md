@@ -45,5 +45,5 @@ A data professional with a strong interest in data engineering, data analysis, a
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajinamatya)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajinamatya&show_icons=true&theme=radical)
 
