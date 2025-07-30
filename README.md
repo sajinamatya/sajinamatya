@@ -1,5 +1,4 @@
 Learning, exploring, and trying out new stuff in the field of information technology and data science/data engineering
-
 A data professional with a strong interest in data engineering, data analysis, and artificial intelligence. Transforming raw data into usable knowledge and able to build scalable data pipelines and infrastructures with ease. 
 
 
