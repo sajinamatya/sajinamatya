@@ -1,6 +1,6 @@
 Learning, exploring, and trying out new stuff in the field of information technology and data science/data engineering
 
-A data professional with a strong interest in data engineering, data analysis, and artificial intelligence. Experienced in Python, SQL, Apache Airflow and a variety of data-oriented tools such as SSIS, SSAS, SSMS and Power BI ,Transforming raw data into usable knowledge and able to build scalable data pipelines and infrastructures with ease. Currently exploring and learning dbt, data brick and Azure Cloud to develop skill on cloud data infrastructure
+A data professional with a strong interest in data engineering, data analysis, and artificial intelligence. Transforming raw data into usable knowledge and able to build scalable data pipelines and infrastructures with ease. 
 
 
 
