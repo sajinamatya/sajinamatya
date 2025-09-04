@@ -29,25 +29,12 @@ A data professional with a strong interest in data engineering, data analysis, a
 
 
 
-
-
- 
-
-
-
-
-
-
-  
-
-</div>
-<div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
-</div>
 
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajinamatya&show_icons=true&theme=radical)
 
