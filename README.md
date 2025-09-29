@@ -44,5 +44,5 @@ A data professional with a strong interest in data engineering, data analysis, a
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sajinamatya&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sajinamatya)](https://github.com/anuraghazra/github-readme-stats)
 
